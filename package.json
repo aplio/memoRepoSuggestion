@@ -2,6 +2,7 @@
   "name": "memo_repo_suggestion",
   "displayName": "memo_repo_suggestion",
   "description": "suggest headers in markdown files in current workspace",
+  "publisher": "aplio",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"
