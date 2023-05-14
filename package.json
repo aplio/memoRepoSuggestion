@@ -1,5 +1,5 @@
 {
-  "name": "memo_repo_suggestion",
+  "name": "memoRepoSuggestion",
   "displayName": "memo_repo_suggestion",
   "description": "suggest headers in markdown files in current workspace",
   "publisher": "aplio",
